@@ -64,5 +64,22 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-openmediavault is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://openmediavault.org/
+OpenMediaVault provides a free, open‑source network attached storage (NAS) solution built on Debian Linux, enabling individuals and small businesses to store, share, and back up data on their own hardware. It offers a web‑based admin interface, extensible plugins, and features such as S.M.A.R.T., snapshots, and remote access, emphasizing data sovereignty and ease of use without requiring deep technical expertise.
+
+**Areas:** Company · NAS · Open Source · Data Sovereignty · Linux
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.openmediavault.org/)
+- [Documentation](https://docs.openmediavault.org/)
+- [Getting started](https://www.openmediavault.org/install.html)
+- [Support](https://forum.openmediavault.org)
+- [Blog](https://www.openmediavault.org/blog.html)
+- [Terms of service](https://www.openmediavault.org/imprint.html)
+- [GitHub](https://github.com/openmediavault)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/openmediavault/](https://apis.io/providers/openmediavault/).
